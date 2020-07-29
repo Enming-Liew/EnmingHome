@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "闭包理解", "闭包理�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "闭包理解1", "闭包理解1\闭包理解1.csproj", "{4A047F27-9EA7-44BD-B659-89F42C1689C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托", "委托\委托.csproj", "{74E3402F-989F-483E-BB7A-1419AF8F7E73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "事件", "事件\事件.csproj", "{E51E5DFD-9EDB-418E-A557-F759360A30A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{4A047F27-9EA7-44BD-B659-89F42C1689C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A047F27-9EA7-44BD-B659-89F42C1689C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A047F27-9EA7-44BD-B659-89F42C1689C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E3402F-989F-483E-BB7A-1419AF8F7E73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E3402F-989F-483E-BB7A-1419AF8F7E73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E3402F-989F-483E-BB7A-1419AF8F7E73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E3402F-989F-483E-BB7A-1419AF8F7E73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51E5DFD-9EDB-418E-A557-F759360A30A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51E5DFD-9EDB-418E-A557-F759360A30A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51E5DFD-9EDB-418E-A557-F759360A30A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51E5DFD-9EDB-418E-A557-F759360A30A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
