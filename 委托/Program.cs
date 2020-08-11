@@ -80,14 +80,6 @@ namespace 委托
             delegate1(name2); 
             #endregion
 
-
-
-
-
-
-
-
-
             Console.ReadKey();
         }
 
